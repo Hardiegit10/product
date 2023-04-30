@@ -16,6 +16,9 @@ nav {
     background-color: aliceblue;
 }
 
+.logo { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .menu {
     align-items: center;
     display: flex;
@@ -122,8 +125,8 @@ h2 span {
     font-weight: bold;
     font-size: medium;
     margin-left: 10px;
-    background-color: rgba(255, 68, 0, 0.26);
-    color: orangered;
+    background-color: rgb(167, 187, 204);
+    color: red;
     padding: 2px;
     margin-bottom: 5px;
 }
